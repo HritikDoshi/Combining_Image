@@ -1,7 +1,7 @@
 # Combining_Image
 It's a small project where you can change the background of an image using another image.
 
-###For understanding
+#### For understanding
 When you open the website, you are suppose to select two images 
 - Front Image
 - Backgroung Image
